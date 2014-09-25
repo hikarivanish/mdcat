@@ -1,0 +1,12 @@
+{
+	"siteTitle" : "Hikari's Blog",
+	"siteAdmin" : "Hikari Vanish",
+	"logo" : "img/a.jpg",
+	"pages": [
+		"Mahua",
+		"Markdownpad",
+		"Gitbook",
+		"Styleguide"
+	]
+
+}
