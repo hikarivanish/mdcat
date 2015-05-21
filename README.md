@@ -36,7 +36,7 @@ example:
 
 put you post in the `posts` folder,and add a line to post.json
 
-```json
+```javascript
 { 
 	"posts":[
 		"This is my title@1409251524", // add this line
@@ -59,4 +59,4 @@ then synchronize with your server.
 
 ----
 
-Here's [my blog](http://blog.hikarivanish.me) which use MDCAT.
+Here's [a sample site](http://hikarivanish.github.io/mdcat) which use MDCAT.
